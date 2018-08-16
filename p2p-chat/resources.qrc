@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/test">
+        <file>unisa-48px.png</file>
+        <file>Helpful Links.docx</file>
+    </qresource>
+    <qresource prefix="/resource">
+        <file>no-avatar.jpg</file>
+        <file>file.png</file>
+        <file>image.png</file>
+        <file>send.png</file>
+        <file>profile.png</file>
+        <file>export.png</file>
+        <file>invite.png</file>
+        <file>kick.png</file>
+        <file>offline.png</file>
+        <file>private.png</file>
+        <file>public.png</file>
+        <file>invite-large.png</file>
+        <file>profile-large.png</file>
+        <file>PM.png</file>
+    </qresource>
+</RCC>
